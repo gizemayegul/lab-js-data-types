@@ -12,7 +12,6 @@
 
   Upon completion of this exercise, you will be able to:
 
-  - Run JavaScript code from your IDE, using a local server to load it in the browser
   - Perform basic mathematical calculations using arithmetic operators
   - Assign values to variables using assignment operators (`=`, `+=`, `-=`, etc.)
   - Use string concatenation (`+`) or interpolation `${}` to join strings together
@@ -77,11 +76,8 @@ git push origin master
 - Create a Pull Request and submit your assignment.
 
 
-<br>
 
-*At Ironhack, we use Pull Requests (PR) to submit lab assignments and verify student's work. After completing all the mandatory iterations, you should commit your code and create a Pull Request. If you can't finish a part of an iteration or still haven't completed all the iterations or the bonuses, it's okay; you should still submit the Pull Request before the start of the class on the next day.*<br>
-
-*Once you make a PR, any other time you push the changes (following the previous three steps), your change will appear automatically on the PR, allowing the teaching staff to verify your submission.*
+*You should make a PR (Pull Request) when you make any significant change. You shouldn't have to wait until you're completely done with this or any other exercise to make the PR. After you do the first PR, any other time you push the changes (following the previous three steps), your change will appear automatically on the PR allowing the teaching staff to check your progress.*
 
 <br>
 
