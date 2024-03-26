@@ -84,7 +84,7 @@ const randomNumber = Math.floor(Math.random() * 10) + 1;
 console.log(Math.random()); // it generate a random number between 0 and 1
 
 // Print the generated random number
-// console.log(randomNumber);
+console.log(randomNumber);
 
 /*******************************************
     Iteration 3.1 | Booleans
